@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SampleFocus Downloader
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Download unlimited samples from SampleFocus
 // @author       Romadillo
 // @match        https://samplefocus.com/samples/*
