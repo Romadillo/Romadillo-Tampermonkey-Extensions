@@ -1,2 +1,1 @@
-# Romadillo-Tampermonkey-Extensions
-Tampermonkey extensions made by Romadillo
+# Romadillo's Tampermonkey Extensions
